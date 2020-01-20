@@ -453,6 +453,7 @@ module.exports = [
   [ 0x800001c3, "KTS", "Klimatas" ],
   [ 0x800001c9, "AE", "æternity" ],
   [ 0x800001d0, "ETI", "EtherInc" ],
+  [ 0x800001d5, "BTH", "Bithereum" ],
   [ 0x800001e8, "VEO", "Amoveo" ],
   [ 0x800001f4, "THETA", "Theta" ],
   [ 0x800001f5, "SOL", "Solana" ],
